@@ -1,6 +1,4 @@
 # CODTECH_Internship_Task1_SocialMediaCalendar
-# CODTECH Internship – Task 1: Social Media Calendar
-
 **COMPANY:** CODTECH IT SOLUTIONS  
 **NAME:** ADITYA PATIDAR  
 **INTERN ID:** CT04DR2504  
